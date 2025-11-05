@@ -49,11 +49,11 @@ A beautiful React Native app with 2,127+ inspiring quotes, smart category filter
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>iOS</strong></td>
+      
       <td align="center"><strong>Android</strong></td>
     </tr>
     <tr>
-      <td><img src="screenshots/homescreen-ios.png" width="250" alt="iOS Home Screen"></td>
+      
       <td><img src="screenshots/homescreen-android.png" width="250" alt="Android Home Screen"></td>
     </tr>
     <tr>
